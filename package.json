@@ -1,0 +1,32 @@
+{
+  "name": "nod",
+  "displayName": "NOD",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Uruvsereg",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Uruvsereg-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon/Nod.png",
+  "author":{
+    "name": "Uruvsereg",
+    "type": "uruvsereg@hotmail.com",
+    "url": "https://www.linkedin.com/in/juli%C3%A1n-gonz%C3%A1lez-750aa6168/"
+  },
+  "repository": {
+    "url": "https://github.com/Uruvsereg/NOD-VSCodeTheme",
+    "type": "git"
+  },
+  "publisher": "Uruvsereg"
+}
